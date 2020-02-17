@@ -4,4 +4,4 @@ University project (3rd year)
 
 2017.
 
-Cloned from my bitbucket repo.
+Cloned from my bitbucket repository.
